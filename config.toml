@@ -1,0 +1,14 @@
+[mistral]
+api_key = "test_key"
+
+[game]
+difficulty = "medium"
+starting_city = "Tokyo"
+screen_width = 1280
+screen_height = 720
+fps = 60
+
+[debug]
+draw_collision_boxes = false
+show_fps = true
+log_ai_responses = false
