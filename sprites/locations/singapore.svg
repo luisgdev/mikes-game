@@ -1,0 +1,57 @@
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="84" y="88" width="24" height="88" fill="#FF92DC"/>
+<rect width="40" height="8" transform="matrix(1 0 0 -1 76 88)" fill="#FF92DC"/>
+<rect width="56" height="8" transform="matrix(1 0 0 -1 68 80)" fill="#FF92DC"/>
+<rect width="88" height="8" transform="matrix(1 0 0 -1 52 72)" fill="#FF92DC"/>
+<rect width="120" height="8" transform="matrix(1 0 0 -1 36 64)" fill="#FF92DC"/>
+<rect width="56" height="8" transform="matrix(1 0 0 -1 68 56)" fill="#FF92DC"/>
+<rect x="84" y="77" width="8" height="83" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 76 88)" fill="#FA500F"/>
+<rect x="116" y="88" width="8" height="8" transform="rotate(180 116 88)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 68 80)" fill="#FA500F"/>
+<rect x="124" y="80" width="8" height="8" transform="rotate(180 124 80)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 60 56)" fill="#FA500F"/>
+<rect x="132" y="56" width="8" height="8" transform="rotate(180 132 56)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 68 64)" fill="#FA500F"/>
+<rect x="124" y="64" width="8" height="8" transform="rotate(180 124 64)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 76 72)" fill="#FA500F"/>
+<rect x="116" y="72" width="8" height="8" transform="rotate(180 116 72)" fill="#FA500F"/>
+<rect x="100" y="168" width="8" height="8" transform="rotate(180 100 168)" fill="#FA500F"/>
+<rect x="100" y="152" width="8" height="8" transform="rotate(180 100 152)" fill="#FA500F"/>
+<rect x="100" y="136" width="8" height="8" transform="rotate(180 100 136)" fill="#FA500F"/>
+<rect x="100" y="120" width="8" height="8" transform="rotate(180 100 120)" fill="#FA500F"/>
+<rect x="100" y="104" width="8" height="8" transform="rotate(180 100 104)" fill="#FA500F"/>
+<rect x="100" y="88" width="8" height="8" transform="rotate(180 100 88)" fill="#FA500F"/>
+<rect x="100" y="72" width="8" height="8" transform="rotate(180 100 72)" fill="#FA500F"/>
+<rect x="100" y="56" width="8" height="8" transform="rotate(180 100 56)" fill="#FA500F"/>
+<rect width="8" height="16" transform="matrix(1 0 0 -1 84 80)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 84 64)" fill="#FA500F"/>
+<rect x="108" y="160" width="8" height="104" transform="rotate(180 108 160)" fill="#FA500F"/>
+<rect width="8" height="16" transform="matrix(1 0 0 -1 84 56)" fill="#FA500F"/>
+<rect x="108" y="56" width="8" height="16" transform="rotate(180 108 56)" fill="#FA500F"/>
+<rect width="8" height="8" transform="matrix(1 0 0 -1 68 24)" fill="#FA500F"/>
+<rect x="124" y="24" width="8" height="8" transform="rotate(180 124 24)" fill="#FA500F"/>
+<rect width="8" height="16" transform="matrix(1 0 0 -1 76 40)" fill="#FA500F"/>
+<rect x="116" y="40" width="8" height="16" transform="rotate(180 116 40)" fill="#FA500F"/>
+<rect width="16" height="8" transform="matrix(1 0 0 -1 36 64)" fill="#FA500F"/>
+<rect x="156" y="64" width="16" height="8" transform="rotate(180 156 64)" fill="#FA500F"/>
+<rect width="16" height="8" transform="matrix(1 0 0 -1 44 48)" fill="#FA500F"/>
+<rect x="148" y="48" width="16" height="8" transform="rotate(180 148 48)" fill="#FA500F"/>
+<rect width="24" height="8" transform="matrix(1 0 0 -1 12 56)" fill="#FA500F"/>
+<rect x="180" y="56" width="24" height="8" transform="rotate(180 180 56)" fill="#FA500F"/>
+<rect width="16" height="8" transform="matrix(1 0 0 -1 28 40)" fill="#FA500F"/>
+<rect x="164" y="40" width="16" height="8" transform="rotate(180 164 40)" fill="#FA500F"/>
+<rect width="16" height="8" transform="matrix(1 0 0 -1 52 72)" fill="#FA500F"/>
+<rect x="140" y="72" width="16" height="8" transform="rotate(180 140 72)" fill="#FA500F"/>
+<rect x="76" y="136" width="8" height="8" fill="#E92700"/>
+<rect x="116" y="168" width="8" height="8" fill="#E92700"/>
+<rect x="108" y="136" width="8" height="8" fill="#E92700"/>
+<rect x="92" y="160" width="8" height="8" fill="#E92700"/>
+<rect x="76" y="160" width="8" height="8" fill="#E92700"/>
+<rect x="108" y="160" width="8" height="8" fill="#E92700"/>
+<rect x="76" y="144" width="16" height="8" fill="#E92700"/>
+<rect x="68" y="168" width="24" height="8" fill="#E92700"/>
+<rect x="100" y="168" width="16" height="8" fill="#E92700"/>
+<rect x="76" y="152" width="40" height="8" fill="#E92700"/>
+<rect x="100" y="144" width="16" height="8" fill="#E92700"/>
+</svg>
