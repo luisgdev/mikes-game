@@ -12,6 +12,8 @@ This project generates pixel art sprites and game levels using AI (LLM) and disp
 
 ## Running the Demo
 
+![Demo of game](.docs/mikes-adventure.png)
+
 ### Prerequisites
 
 - Python 3.10+
