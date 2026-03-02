@@ -1,0 +1,17 @@
+[project]
+name = "mistral-game"
+version = "0.1.0"
+description = "Mike's adventure: a 2D video game that shows the journey of a friendly cat."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mistralai>=1.12.4",
+    "numpy>=2.4.2",
+    "pillow>=12.1.1",
+    "pygame>=2.6.1",
+    "tomli>=2.4.0",
+    "tomli-w>=1.2.0",
+]
+
+[project.scripts]
+game = "src.main:main"
